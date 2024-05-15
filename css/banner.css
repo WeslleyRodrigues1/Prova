@@ -1,0 +1,18 @@
+
+.banner{
+    background-image: url(../paisagem-natural-og.webp);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 80vh;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h2{
+    text-align: center;
+    color: #fff;
+    font-size: 2rem;
+}
